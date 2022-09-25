@@ -1,0 +1,89 @@
+/* common styles */
+
+.section-hedder {
+    padding: 1rem;
+}
+
+.totals {
+    padding: 0 3rem;
+}
+
+/* end of commons */
+
+
+/* --------- sections  --------- */
+
+#pricing-dashboard {
+    color: #ffffff !important;
+    padding: 0 2rem;
+    margin: 1rem;
+}
+
+#navbarAdmin {
+    margin: 0 !important;
+}
+
+#bodyContent {
+    height: 100vh;
+    
+}
+
+/* -------- end of sections -------- */
+
+.content-wrapper{
+    padding: 1rem;
+}
+
+.totals-card {
+    width: auto;
+    height: auto;
+    /* background-color: cornflowerblue; */
+    margin: 0;
+    padding: 1rem;
+    text-align: left;
+
+}
+
+.totals{
+    background-color: cornflowerblue !important;
+}
+
+
+
+
+body {
+    margin: 0;
+    padding: 0 !important;
+}
+
+.navbarplaceHolder {
+    margin: 0;
+}
+
+.item-pads {
+    margin-right: 1.2rem;
+}
+
+
+
+.offcanvas-title {
+    color: aliceblue !important;
+}
+
+.card {
+    margin: 1rem 1rem 1rem 0rem;
+}
+
+.card .card-body:hover {
+    background-color: cornflowerblue;
+    color: aliceblue !important;
+    border-radius: 5px;
+}
+
+/* .card-body:hover{
+   
+} */
+
+.card-bg-color {
+    background-color: rgb(255, 255, 255);
+}
